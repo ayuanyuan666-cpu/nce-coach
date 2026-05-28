@@ -1,0 +1,105 @@
+{
+  "core_cast": {
+    "laozhou": {
+      "name": "周建国",
+      "alias": "老周",
+      "age": 34,
+      "gender": "男",
+      "occupation": "咖啡店老板",
+      "location": "成都玉林路",
+      "personality": ["佛系经营", "护短", "对咖啡较真", "遇事不慌"],
+      "pets": [
+        {"name": "豆包", "type": "柴犬", "age": 3, "traits": ["贪吃", "会越狱", "社交牛逼症"]}
+      ],
+      "life_summary": "前上海奥美广告人，辞职后在成都玉林路盘了个小店开了三年咖啡馆。店名「豆包咖啡」，柴犬豆包是店宠兼店长。手冲出品稳定，熟客多。前广告公司的上司是控制狂+抢功王，至今想起来还翻白眼。",
+      "anchor": "吐槽领导（前广告公司上司）",
+      "ongoing_threads": [
+        {"id": "lz-001", "title": "房东涨租50%", "progress": "跟房东首次谈判，提出装修抵扣方案被拒"},
+        {"id": "lz-002", "title": "豆包盲盒蛋糕意外走红", "progress": "大众点评多了二十几条好评，有人专门来打卡"}
+      ],
+      "recent_events": [
+        {"date": "2026-05-27", "event": "房东来店里催涨租，老周提出装修费抵扣被拒"},
+        {"date": "2026-05-25", "event": "豆包把熟客皮鞋咬了个洞，赔了一周营业额"},
+        {"date": "2026-05-22", "event": "隔壁新开了家瑞幸，焦虑了两天发现对方不卖手冲"}
+      ],
+      "relations": {
+        "daliu": {"type": "熟客", "detail": "每周六下午来写代码，冰美式加三份浓缩", "active": true},
+        "xiaochen": {"type": "豆包打疫苗认识的", "detail": "偶尔微信交流养宠心得", "active": false}
+      },
+      "times_used": 0,
+      "last_used": null,
+      "engagement_score": 0,
+      "status": "active"
+    },
+    "daliu": {
+      "name": "刘铮",
+      "alias": "大刘",
+      "age": 31,
+      "gender": "男",
+      "occupation": "后端程序员",
+      "location": "成都天府软件园",
+      "personality": ["闷骚吐槽王", "表面老实内心弹幕满屏", "对代码较真对人随和"],
+      "pets": [
+        {"name": "八戒", "type": "乌龟", "age": 5, "traits": ["一动不动", "偶尔越狱找不着"]}
+      ],
+      "life_summary": "沈阳人，来成都两年了，至今火锅只敢点微辣。在游戏公司做后端，产品经理是需求一天改八遍的类型。老婆在北京做设计，两人每月飞一次，视频通话是日常。周末副业跟朋友做一个独立游戏，进度慢得像八戒爬。他妈催婚催到他假装加班不敢接电话——虽然婚都结了，他妈改催生孩子了。",
+      "anchor": "异地（老婆在北京，每月飞一次）",
+      "ongoing_threads": [
+        {"id": "dl-001", "title": "公司裁员风声", "progress": "HR最近频繁开会，研发部人心惶惶"},
+        {"id": "dl-002", "title": "独立游戏开发", "progress": "引擎换了两次，demo终于能跑了但画面惨不忍睹"}
+      ],
+      "recent_events": [
+        {"date": "2026-05-27", "event": "闲聊第一次启用"},
+        {"date": "2026-05-26", "event": "产品经理又改了需求，这周第三次了"},
+        {"date": "2026-05-24", "event": "老婆说下个月可能来成都出差，开心得在工位偷笑被同事看到"}
+      ],
+      "relations": {
+        "laozhou": {"type": "熟客", "detail": "每周六去豆包咖啡写代码，豆包是他debug时的精神抚慰犬", "active": true},
+        "xiaochen": {"type": "网友", "detail": "在宠物论坛认识的，请她帮忙看过八戒不吃饭的问题", "active": false}
+      },
+      "times_used": 1,
+      "last_used": "2026-05-27",
+      "engagement_score": 1,
+      "status": "active"
+    },
+    "xiaochen": {
+      "name": "陈小雨",
+      "alias": "小陈",
+      "age": 24,
+      "gender": "女",
+      "occupation": "宠物医院前台",
+      "location": "广州城中村",
+      "personality": ["乐天派", "什么事都能找到笑点", "小财迷但对流浪猫大方"],
+      "pets": [
+        {"name": "暂住猫口", "type": "3只流浪幼猫", "age": "2个月", "traits": ["找领养中", "一只橘的一只黑的一只花的"]}
+      ],
+      "life_summary": "去年大专毕业，在宠物医院做前台，工资不高但每天撸猫撸狗很开心。住在城中村，隔壁是卖肠粉的阿婆，楼下麻将馆通宵营业。跟老家爸妈每周视频一次，每次都以催婚结束。正在攒钱想考兽医助理证，但报名费要三千块有点肉疼。最近在救助三只流浪猫幼崽，天天发朋友圈找领养。",
+      "anchor": "视频通话（每周跟爸妈视频总被催婚）",
+      "ongoing_threads": [
+        {"id": "xc-001", "title": "攒钱考兽医助理证", "progress": "攒了两个月存了1800，还差1200"},
+        {"id": "xc-002", "title": "三只流浪猫找领养", "progress": "花的那只有人问了但嫌不是品种猫又不要了"}
+      ],
+      "recent_events": [
+        {"date": "2026-05-26", "event": "楼上搬来一对天天吵架的情侣，快被吵死"},
+        {"date": "2026-05-25", "event": "花猫被人预定又反悔，小陈发朋友圈骂了一顿又删了"},
+        {"date": "2026-05-21", "event": "肠粉阿婆的猫生了，说送小陈一只"}
+      ],
+      "relations": {
+        "laozhou": {"type": "豆包打疫苗认识的", "detail": "偶尔交流养宠心得，老周说有空来广州请她喝手冲", "active": false},
+        "daliu": {"type": "网友", "detail": "宠物论坛认识的，帮他看过乌龟不吃东西的问题", "active": false}
+      },
+      "times_used": 0,
+      "last_used": null,
+      "engagement_score": 0,
+      "status": "active"
+    }
+  },
+  "cast_size": 3,
+  "max_core_cast": 6,
+  "active_relations": [
+    {"from": "laozhou", "to": "daliu", "summary": "大刘每周六来店里写代码，最近在帮老周查租房合同法"},
+    {"from": "daliu", "to": "laozhou", "summary": "老周的咖啡馆是大刘的避风港，写代码+吐槽产品经理"}
+  ],
+  "guest_pool": [],
+  "archived_cast": []
+}
