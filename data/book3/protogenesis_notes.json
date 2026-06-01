@@ -1,0 +1,4157 @@
+{
+  "source": "https://protogenesis.github.io/New-Concept-English/NCE3.html",
+  "source_label": "protogenesis 新概念英语笔记",
+  "book": 3,
+  "description": "新概念英语第3册手动整理语法笔记，仅包含引入新知识点的课次",
+  "total_lessons_with_content": 60,
+  "lesson_content_map": {
+    "lessons": [
+      "001",
+      "002",
+      "003",
+      "004",
+      "005",
+      "006",
+      "007",
+      "008",
+      "009",
+      "010",
+      "011",
+      "012",
+      "013",
+      "014",
+      "015",
+      "016",
+      "017",
+      "018",
+      "019",
+      "020",
+      "021",
+      "022",
+      "023",
+      "024",
+      "025",
+      "026",
+      "027",
+      "028",
+      "029",
+      "030",
+      "031",
+      "032",
+      "033",
+      "034",
+      "035",
+      "036",
+      "037",
+      "038",
+      "039",
+      "040",
+      "041",
+      "042",
+      "043",
+      "044",
+      "045",
+      "046",
+      "047",
+      "048",
+      "049",
+      "050",
+      "051",
+      "052",
+      "053",
+      "054",
+      "055",
+      "056",
+      "057",
+      "058",
+      "059",
+      "060"
+    ]
+  },
+  "lessons": {
+    "001": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "同位语和定语从句的区别"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "同位语和定语从句的区别",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "同位语从句一般用that连接,也可以有wh-开头的疑问词连接"
+            },
+            {
+              "type": "paragraph",
+              "text": "作用是对前面提到的名词作进一步的解释"
+            },
+            {
+              "type": "paragraph",
+              "text": "和定语从句的区别是同位语中的that一般不可省略,而定语从句中的that只有当在从句中作宾语时才可省略"
+            },
+            {
+              "type": "paragraph",
+              "text": "如何区分两者: 当去掉that,如果从句还是完整的一个句子,那么就是同位语从句,否则就是定语从句"
+            }
+          ]
+        },
+        {
+          "title": "短语动词与结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "I mean business. 我没开玩笑"
+            },
+            {
+              "type": "paragraph",
+              "text": "cling to … 附着于…,坚持"
+            },
+            {
+              "type": "paragraph",
+              "text": "cling tenaciously to one’s opinion. 固执己见"
+            },
+            {
+              "type": "paragraph",
+              "text": "bread winner 养家糊口的人"
+            },
+            {
+              "type": "paragraph",
+              "text": "a trail of … 一串"
+            },
+            {
+              "type": "paragraph",
+              "text": "convince sb. of sth. 使某人信服某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "The leopard cannot change its spot. 本性难移"
+            },
+            {
+              "type": "paragraph",
+              "text": "complain of sth. / complain to sb. of/about sth. / complain about sth. 抱怨,埋怨"
+            },
+            {
+              "type": "paragraph",
+              "text": "sth. in the possession of sb. 某物为某人所有"
+            },
+            {
+              "type": "paragraph",
+              "text": "sb. in possession of sth. 某人拥有某物"
+            },
+            {
+              "type": "paragraph",
+              "text": "at large 逍遥法外/不受约束的"
+            },
+            {
+              "type": "paragraph",
+              "text": "feel obliged to do sth. 感到不得不做某事"
+            }
+          ]
+        }
+      ]
+    },
+    "002": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "paragraph",
+              "text": "现在分词形式看做经常发生的情况"
+            },
+            {
+              "type": "paragraph",
+              "text": "定语从句关系代词(物)在介词之后时只能使用which"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "现在分词形式看做经常发生的情况",
+                "定语从句关系代词(物)在介词之后时只能使用which"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "现在分词形式看做经常发生的情况",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "当现在进行时加上always, contiually等等副词时,可以看做是经常发生的动作,并且说话人语气带有感情色彩"
+            },
+            {
+              "type": "code",
+              "text": "My husband is always working hard.   我的丈夫老是想着工作 (有埋怨的意思)\nJack, my employee, is always working hard.   杰克老是想着工作 (有赞赏的意思)"
+            }
+          ]
+        },
+        {
+          "title": "定语从句关系代词为物的情况下和介词连用时只能使用which",
+          "content": [
+            {
+              "type": "code",
+              "text": "There is a umbrella with which we arrived here.  我们到这的时候带着一把伞\n\nThe tool whit which he is working is called a hand drill. 他干活用的那个工具叫手摇钻\n\nThat is the murder about which the police are talking.  警察们正在讨论那场谋杀案"
+            },
+            {
+              "type": "paragraph",
+              "text": "如果介词和关系代词没有连用,关系代词可以用that也可省略"
+            },
+            {
+              "type": "code",
+              "text": "That is the murder (that) the police are talking about. 同上"
+            }
+          ]
+        },
+        {
+          "title": "短语动词",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "be equal to sth./doing sth. 比得上/胜任某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "be equal in sth. 在…与某人相等"
+            },
+            {
+              "type": "paragraph",
+              "text": "raise doubts 引起怀疑"
+            },
+            {
+              "type": "paragraph",
+              "text": "raise one’s eye brows (at sth.) 感到惊讶(对某事)"
+            },
+            {
+              "type": "paragraph",
+              "text": "carry a torch for sth./sb. 执着于某个理想/单恋某人"
+            },
+            {
+              "type": "paragraph",
+              "text": "be all over sb. 中意某人"
+            },
+            {
+              "type": "paragraph",
+              "text": "be over sb. 与某人的感情结束了"
+            },
+            {
+              "type": "paragraph",
+              "text": "all at sea 茫然,不知所措"
+            },
+            {
+              "type": "paragraph",
+              "text": "get used to sth./doing sth. 习惯于某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "stand/bear the sight of … 忍受看见…"
+            },
+            {
+              "type": "paragraph",
+              "text": "dread the sight of … 害怕看见…"
+            },
+            {
+              "type": "paragraph",
+              "text": "hate the sight of … 讨厌看见…"
+            },
+            {
+              "type": "paragraph",
+              "text": "keep sight of … 将…保持在视线内"
+            },
+            {
+              "type": "paragraph",
+              "text": "lost sight of … 失去联系,不再看见"
+            },
+            {
+              "type": "paragraph",
+              "text": "one reason or another 各种各样的理由,一个一个的理由"
+            }
+          ]
+        }
+      ]
+    },
+    "003": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "词缀"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "词缀",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "表示职业/身份: er -> or -> ist"
+            },
+            {
+              "type": "paragraph",
+              "text": "表示男性: er,or waiter"
+            },
+            {
+              "type": "paragraph",
+              "text": "表示女性: ess waitress"
+            },
+            {
+              "type": "paragraph",
+              "text": "表示主动: er,or employer"
+            },
+            {
+              "type": "paragraph",
+              "text": "表示被动: ee employee"
+            }
+          ]
+        },
+        {
+          "title": "短语动词与结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "date from … 追溯到"
+            },
+            {
+              "type": "paragraph",
+              "text": "sb. happen to do sth. 某人碰巧做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "sth. happen to sb. 某人遇到某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "a place of … 一个…的地方"
+            },
+            {
+              "type": "paragraph",
+              "text": "turn out to 原来是/证明是/后来成为"
+            },
+            {
+              "type": "paragraph",
+              "text": "be equipped with … 具有/配备有"
+            },
+            {
+              "type": "paragraph",
+              "text": "don’t make a fass 不要大惊小怪的"
+            }
+          ]
+        }
+      ]
+    },
+    "004": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "倍数表示法"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "倍数表示法",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "结构:"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "be twice sth. 是…的两倍",
+                "N. times as … as … 是…的几倍",
+                "N. times adj. as … 是…的几倍+形容词"
+              ]
+            },
+            {
+              "type": "code",
+              "text": "He is twice my age.    他的年龄比我大一倍.\n\nHe is half my tall.    他只有我的一半高.\n\nThe corperation produced three times as many cars in 2018 as the year before.\n这家公司生产在2018年生产了比2017年多三倍的车.\n\nHis car is three times bigger than mine.   他的车是我的三倍大."
+            }
+          ]
+        },
+        {
+          "title": "短语和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "refer to A as B 将A看做是B"
+            },
+            {
+              "type": "paragraph",
+              "text": "regard A as B 同上"
+            },
+            {
+              "type": "paragraph",
+              "text": "human nature 人之常情"
+            },
+            {
+              "type": "paragraph",
+              "text": "give rise to 导致,造成"
+            },
+            {
+              "type": "paragraph",
+              "text": "in the case of … 在…情况下"
+            },
+            {
+              "type": "paragraph",
+              "text": "A close mouth catched no flies.. 言多必失"
+            },
+            {
+              "type": "paragraph",
+              "text": "sacrifice A to/for B 为B舍弃A"
+            },
+            {
+              "type": "paragraph",
+              "text": "sacrifice A to do B 舍弃A去做B"
+            },
+            {
+              "type": "paragraph",
+              "text": "run a bath 放洗澡水"
+            }
+          ]
+        }
+      ]
+    },
+    "005": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "倒装句"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "倒装句",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "完全倒装"
+            },
+            {
+              "type": "paragraph",
+              "text": "表示时间或方位的状语放句首,如now,then,away,down,up,out,in等"
+            },
+            {
+              "type": "paragraph",
+              "text": "地点副词here,there放在句首 (如果主语为代词,则只能使用正常语序)"
+            },
+            {
+              "type": "paragraph",
+              "text": "There be句型的倒装"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "表示时间或方位的状语放句首,如now,then,away,down,up,out,in等 My chance of winning went away. 我失去了赢的机会. 倒装: Away went my chance of winning.",
+                "地点副词here,there放在句首 (如果主语为代词,则只能使用正常语序) The train comes here. 火车来了 倒装: Here comes the train. He comes here. 他来这了 倒装(主语为代词,使用正常语序): Here he comes.",
+                "There be句型的倒装 A hotel is/stands nearby. There is/stands a hotel nearby. 附近有家酒店."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "部分倒装"
+            },
+            {
+              "type": "paragraph",
+              "text": "具有否定意义的词(组)放句首,如not only,never,seldom,no sooner,little等"
+            },
+            {
+              "type": "paragraph",
+              "text": "Only + 状语(从句)放句首"
+            },
+            {
+              "type": "paragraph",
+              "text": "So + 形容词/副词/名词词组放句首"
+            },
+            {
+              "type": "paragraph",
+              "text": "If引导的虚拟语气从句中,有had,were,should放在句首"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "具有否定意义的词(组)放句首,如not only,never,seldom,no sooner,little等 I saw little of her recently. 我最近很少见到她. 倒装: Little did I see of her recently.",
+                "Only + 状语(从句)放句首 You can only solve this problem in this way. 你只能通过这种方式解决这个问题. 倒装: Only in this way can you solve this problem.",
+                "So + 形容词/副词/名词词组放句首 The man was so stupid that he could not solve any problem by himself. 那个男人笨到无法自己解决任何问题 倒装: So stupid was the man that he could not solve any problem by himself.",
+                "If引导的虚拟语气从句中,有had,were,should放在句首 If he were alive today, he would be pleased to see the changes. 如果他今天还活着的话,看到这些改变他会非常高兴的. 倒装: Were he alive today, he would be pleased to see the changes."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "短语结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "inform sb of sth 通知某人某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "go to extremes to do sth 采取极端的手段做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "run to an extreme of doing sth 同上"
+            },
+            {
+              "type": "paragraph",
+              "text": "provide sth for sb. 为某人提供某物"
+            },
+            {
+              "type": "paragraph",
+              "text": "provide sb with sth. 提供某人某物"
+            },
+            {
+              "type": "paragraph",
+              "text": "Devil’s luck. 真倒霉"
+            },
+            {
+              "type": "paragraph",
+              "text": "go to press. 付印"
+            },
+            {
+              "type": "paragraph",
+              "text": "laid off: 停工,解雇"
+            },
+            {
+              "type": "paragraph",
+              "text": "be impatient with sb. 对某人不耐烦"
+            },
+            {
+              "type": "paragraph",
+              "text": "be impatient at sth. 对某事不耐烦"
+            }
+          ]
+        }
+      ]
+    },
+    "006": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "paragraph",
+              "text": "独立主格"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "独立主格",
+                "构词法",
+                "词缀"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "独立主格",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "独立主格的特征 独立主格的特点 独立主格用法一览"
+            },
+            {
+              "type": "paragraph",
+              "text": "独立主格指的是句子中的某一部分拥有自己的逻辑主语和逻辑谓语,通常通过with,of等介词连接"
+            },
+            {
+              "type": "paragraph",
+              "text": "独立主格中的谓语动词有三种形式:"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "不定式",
+                "现在分词",
+                "过去分词"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "独立主格也可以没有动词,由主语+副词/形容词等组成"
+            },
+            {
+              "type": "code",
+              "text": "A large black car roared down the arcade, with its headlights on and its horn blaring.\n一辆亮着前灯,喇叭嘟嘟叫着的黑色大轿车呼啸着停在了拱桥街道旁\n\nits headlight on和its horn blaring为独立主格\non为副词,blaring为动词现在分词"
+            }
+          ]
+        },
+        {
+          "title": "构词法",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "英语中有多种构词方式,常见的有"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "转化(conversion) -> water: 水 water: 浇水",
+                "派生(derivasion) -> happy 加前缀派生出unhappy,加后缀派生出happiness",
+                "合成(compounding) -> classroom moonlight sunflower secondhand"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "前缀",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "常用的表示否定含义的前缀有:"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "un- uninportant unbelievable",
+                "dis- dismiss disappear",
+                "in- inactivity inapparent",
+                "im- impossible impolite",
+                "ir- irregular irremovable",
+                "il- illogical illegal"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "常用的表示其他含义的有:"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "re- repeat rediscover",
+                "ex- ex-wife ex-prime minister",
+                "bi- bicycle binoculars",
+                "tri- tricycle tricolor",
+                "pre- previous precollege"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "短语结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "help … to … 随意拿取,窃取"
+            },
+            {
+              "type": "paragraph",
+              "text": "scramble for sth. (合法的)争夺某物"
+            },
+            {
+              "type": "paragraph",
+              "text": "well-staffed 人员充足的"
+            },
+            {
+              "type": "paragraph",
+              "text": "under-staffed 人员缺乏的"
+            },
+            {
+              "type": "paragraph",
+              "text": "diamonds cut diamonds 山外有山,人外有人"
+            }
+          ]
+        }
+      ]
+    },
+    "007": {
+      "topics": [
+        {
+          "title": "后缀",
+          "content": [
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "后缀"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "后缀",
+          "content": [
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "-er: director teacher",
+                "-or: collector operator",
+                "-ness: happiness illness",
+                "-tion: action operation",
+                "-ment: payment movement"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "-ful: helpful beautiful",
+                "-less: worthless priceless",
+                "-ish: childish selfish",
+                "-ive: active negative",
+                "-like: catlike doglike",
+                "-ous: precious delicious",
+                "-able: movable valuable",
+                "-ly: lovely friendly",
+                "-some: handsome awesome"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "-ize: realize memorize",
+                "-en: frighten sharpen",
+                "-ify: terrify modify"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "-ly: luckly really",
+                "-ward: afterward onward",
+                "-wise: likewise clockwise"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "-teen nineteen fifteen",
+                "-ty thirty forty",
+                "-th fifth ninth"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "短语结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "let bygones be bygones 一切都过去了"
+            },
+            {
+              "type": "paragraph",
+              "text": "Great minds think alike 英雄所见略同"
+            },
+            {
+              "type": "paragraph",
+              "text": "chew sth over 深思熟虑"
+            },
+            {
+              "type": "paragraph",
+              "text": "keep sb/sth safe from … 保持…安全而远离…"
+            },
+            {
+              "type": "paragraph",
+              "text": "a shotgun marriage 奉子成婚"
+            },
+            {
+              "type": "paragraph",
+              "text": "a flash marriage 闪婚"
+            },
+            {
+              "type": "paragraph",
+              "text": "3S ladies(single,seventies,stuck) 剩女"
+            },
+            {
+              "type": "paragraph",
+              "text": "eligible bachelor 钻石单身汉"
+            },
+            {
+              "type": "paragraph",
+              "text": "a good catch 合适的人选"
+            },
+            {
+              "type": "paragraph",
+              "text": "have a blind date 相亲"
+            },
+            {
+              "type": "paragraph",
+              "text": "propose to sb 向…求婚"
+            }
+          ]
+        }
+      ]
+    },
+    "008": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "prefer to结构"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "prefer to 结构",
+          "content": [
+            {
+              "type": "code",
+              "text": "I prefer winter to summer.  相比夏天,我更喜欢冬天.  (to为介词)\n\nI prefer to sleep on the floor.  我喜欢睡在地板上.  (to为动词不定式)\n\nI prefer sleeping on the floor to sleeping on the mattress. 我更喜欢睡在地板上,而不是床垫上.  (to为介词,prefer和to后面在这种情况下接名词,动名词等)\n\nI prefer to sleep on the floor rather than sleep on the mattress. 翻译同上. (此处to为不定式,rather than为强调,跟随在rather than后的sleep与动词不定式为并列关系)\n\n相比...更加...的句式\nI would rather sleep on the floor than sleep on the mattress.  翻译同上."
+            }
+          ]
+        }
+      ]
+    },
+    "009": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "形容词和副词的比较级 the…, the…"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "形容词和副词的比较级 the…, the…",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "形式: the + 形容词/副词比较级 +句子的倒装结构,表示当一方变化,另一方也随之变化"
+            },
+            {
+              "type": "code",
+              "text": "The more you eat, the more you become fat.   你吃的越多,也会越胖"
+            },
+            {
+              "type": "blockquote",
+              "text": "-er and -er 结构: 表示持续不断的变化,越来越…\nThe boy is becoming more and more intelligent. 这个男孩正变得越来越聪明.\nShe is becoming calmer and calmer. 她正变得越来越冷静."
+            }
+          ]
+        },
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "fail to do sth. 未能做成某事",
+                "fail in doing sth. 在(做)某事失败了",
+                "be based on … 以…为根据",
+                "in common 共同的",
+                "in common with … 和…一样",
+                "died from … 死于某种创伤,事故",
+                "died of … 死于某种疾病",
+                "died through … 死于某种一般性原因",
+                "died off … 相继死去",
+                "suffer from … 受…之苦",
+                "suffer for … 因…而倒霉",
+                "Has the cat got your tougne? 你哑了吗? (对方突然停止说话)",
+                "The cat is out of the bag. 穿帮了,泄露了",
+                "When the cat is away, the mice will play. 山中无老虎,猴子称霸王"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "010": {
+      "topics": [
+        {
+          "title": "sail常用的介词搭配形式",
+          "content": [
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "sail常用的介词搭配形式"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "sail常用的介词搭配形式",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "sail about … 在…驶来驶去"
+            },
+            {
+              "type": "paragraph",
+              "text": "sail across … 横渡"
+            },
+            {
+              "type": "paragraph",
+              "text": "sail along / down / up 沿…向前/向下/向上驶去"
+            },
+            {
+              "type": "paragraph",
+              "text": "sail from … to … 从…驶往…"
+            },
+            {
+              "type": "paragraph",
+              "text": "sail into … 驶入"
+            },
+            {
+              "type": "paragraph",
+              "text": "sail out of … toward … 离开…驶往…"
+            }
+          ]
+        },
+        {
+          "title": "短语动词与结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "heavy loss/casualty of life 大批人员伤亡"
+            },
+            {
+              "type": "paragraph",
+              "text": "a crew of … 一组…的人(船)员"
+            },
+            {
+              "type": "paragraph",
+              "text": "the crews of two boats 两艘船上的船员"
+            },
+            {
+              "type": "paragraph",
+              "text": "according to … / even by … 依据…"
+            },
+            {
+              "type": "paragraph",
+              "text": "to sb’s adj. 令某人感到…的是"
+            },
+            {
+              "type": "paragraph",
+              "text": "watertight aggreement 严密的协议"
+            },
+            {
+              "type": "paragraph",
+              "text": "watertight alibi 找不到破绽的不在场证明"
+            },
+            {
+              "type": "paragraph",
+              "text": "the tip of an iceberg 冰山一角"
+            },
+            {
+              "type": "paragraph",
+              "text": "Never say die! 永不言败"
+            }
+          ]
+        }
+      ]
+    },
+    "011": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "大写字母"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "大写字母",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "需要使用大写字母的情况:"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "句子或直接引语中的第一个单词的首字母 It's a fine day today. 'How are you?' he greeted to me.",
+                "人名,组织名,书名,电影名,剧名的各个单词的首字母(介词,连词等除外) Institude of Electrical and Electronics Engineers 电气和电子工程师协会 The Legend of White Snake 新白娘子传奇",
+                "地名 India",
+                "星期,月份,节日 Thursday 周四 Spring Festival 春节",
+                "某国人 Chinese 中国人",
+                "指某人创作的艺术品,音乐和文学的人名 Mozart 莫扎特",
+                "产品名称 Taobao 淘宝",
+                "姓名前的头衔 President Bush 布什总统",
+                "国名或地名的形容词 An American author 一位美国作家",
+                "与某人有关或相像的形容词 in Victorian Times 在维多利亚时代",
+                "人称代词I任何时候都要大写"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "下述情况下大小写均可:"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "表示方向的单词的首字母 South/south",
+                "年代 nineties/Nineties",
+                "季节名称 Autumn/autumn",
+                "用以指某一类人的头衔 The great Prime Ministers/The great prime ministers 历任首相们",
+                "代词He,Him,His指代基督,上帝"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "in a dreadful mess 乱成一团"
+            },
+            {
+              "type": "paragraph",
+              "text": "light up 点亮,露出得意的神色"
+            },
+            {
+              "type": "paragraph",
+              "text": "pounce on sth. 朝…猛抓"
+            },
+            {
+              "type": "paragraph",
+              "text": "be exempt from 被免于…"
+            },
+            {
+              "type": "paragraph",
+              "text": "green hand 新手"
+            },
+            {
+              "type": "paragraph",
+              "text": "be tolerant of/towards … 对…宽容的"
+            },
+            {
+              "type": "paragraph",
+              "text": "money makes the mare go 有钱能使鬼推磨"
+            },
+            {
+              "type": "paragraph",
+              "text": "business is business 公事公办"
+            }
+          ]
+        }
+      ]
+    },
+    "012": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "wish+从句组成的虚拟语气"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "wish+从句组成的虚拟语气",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "wish所带的从句是虚拟语气,用于表达难以实现或与事实相反的事情"
+            },
+            {
+              "type": "paragraph",
+              "text": "结构:"
+            },
+            {
+              "type": "paragraph",
+              "text": "如果表达与现在的事实相反,动词用过去式,be动词用were"
+            },
+            {
+              "type": "paragraph",
+              "text": "如果表达与过去的事实相反,动词用过去完成时或would/could + 现在完成时"
+            },
+            {
+              "type": "paragraph",
+              "text": "如果表达与将来的事实相反,或不可能实现的,用would/could + 动词原型"
+            },
+            {
+              "type": "blockquote",
+              "text": "be动词用was也可以,但是不够正式,而且were使希望更加渺茫\nwould表示愿望,could表示能够\n当主语为第一人称,用could\n不能用wish+从句的方式来表达将来的某一事实,如果不是接的从句,则可以表示祝愿"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "如果表达与现在的事实相反,动词用过去式,be动词用were",
+                "如果表达与过去的事实相反,动词用过去完成时或would/could + 现在完成时",
+                "不能用wish+从句的方式来表达将来的某一事实,如果不是接的从句,则可以表示祝愿 错误写法: I wish [that] you will have a good time in Switzerland. 正确写法: I hope [that] you will have a good time in Switzerland. 希望你在瑞士玩的开心 I wish you every possible happiness. 我希望你万事如意"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "either…or结构注意点",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "当either…or中的成分均为句子主语时,句中的动词和or后的主语保持一致"
+            },
+            {
+              "type": "code",
+              "text": "Either he or you are to blame.   不是他的错就是你的错\nEither you or he is to blame."
+            }
+          ]
+        },
+        {
+          "title": "短语动词",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "have the opportunity of doing sth. 有机会做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "have the opportunity to do sth. 同上"
+            },
+            {
+              "type": "paragraph",
+              "text": "load…with… 装载…"
+            },
+            {
+              "type": "paragraph",
+              "text": "hardly ever 几乎从未"
+            },
+            {
+              "type": "paragraph",
+              "text": "take the opportunity 抓住机会"
+            },
+            {
+              "type": "paragraph",
+              "text": "have the chance/opportunity of doing sth. 有机会做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "have the chance/opportunity to do sth. 同上"
+            }
+          ]
+        }
+      ]
+    },
+    "013": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "be + 形容词 + 动词不定式",
+                "Although和Though的区别"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "be + 形容词 + 动词不定式",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "英语中许多形容词之后跟动词不定式,可以表达各种含义."
+            },
+            {
+              "type": "code",
+              "text": "She was impatient to put her new dress on.   她急切的想把新裙子穿上."
+            },
+            {
+              "type": "paragraph",
+              "text": "常用it作先行主语"
+            },
+            {
+              "type": "code",
+              "text": "It was silly (of us) to believe him.   我们相信了他,真愚蠢 (句中of表示所指的人,在人很明确的情况下可以省略)"
+            }
+          ]
+        },
+        {
+          "title": "Although和Though的区别",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "两者用法基本相同,但有以下几点细微差别:"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "though多用于正式口语和书面语,although可用于各种文体",
+                "在如even though和as though这些短语性质的从属连词搭配中,even和as只能同though使用",
+                "though可做副词,置于句子末尾,表’然而’,’不过’之意,但although则不能",
+                "though和although均不可同表示转折关系的连词but连用,但可以和yes,still等副词来对主语进行强调"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "短语动词与结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "be composed of … 由…组成"
+            },
+            {
+              "type": "paragraph",
+              "text": "A compose/constitute B. B由A组成"
+            },
+            {
+              "type": "paragraph",
+              "text": "keep pace with … 与…组成同步"
+            },
+            {
+              "type": "paragraph",
+              "text": "let out a cry/give a cry 大叫一声"
+            }
+          ]
+        }
+      ]
+    },
+    "014": {
+      "topics": [
+        {
+          "title": "be known to … 结构",
+          "content": [
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "be known to … 结构",
+                "would rather结构"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "be known to … 结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "be known to sb. 为某人所知"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Your neighbour is known to the police, so you had better keep eye on him. 警察对你的邻居很熟悉,你最好当心点"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "be known to some place. 为某地所知"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "The family is quite known to the area. 这家人在这一片很有名"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "此外,be known还可以使用介词for,as搭配,虽然都是用来表示以…出名,但用法不一样"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "be known as … as后的介词宾语和主语为同位语成分",
+                "be known for … for后面的介词宾语则为主语的从属内容"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "当主语为表示人的名词时,be known as … 表示以某种身份而出名,be known for … 表示以某种技能,作品而出名"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Edison was known as a great inventor. 爱迪生以一位伟大的发明家而著称. Edison was known for his inventive talent. 爱迪生以其发明天赋而闻名."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "当主语为表示地点的名词时,be known as … 表示以…的地方而闻名,be known for … 表示以…特产而闻名"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "The area is known as a green tea producing region. 这个地区以绿茶产地而闻名 The area is known for its green tea. 这个地区因其绿茶闻名."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "当主语为事物名词时,be known as … 表示以…形式而闻名,be known for … 则表示以…内容,价值等而文人所知"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "This book is known as a reference book. 这本书是一本参考书. This book is known for its practical usage. 这本是是一本实用书."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "would rather结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "would rather可以用来表示个人的选择,某人更加愿意…"
+            },
+            {
+              "type": "paragraph",
+              "text": "would rather后面可以跟从句, sb. would rather that …"
+            },
+            {
+              "type": "paragraph",
+              "text": "也可以跟不带to的不定式 sb. would rather do A than do B."
+            }
+          ]
+        },
+        {
+          "title": "短语动词",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "put … out of business 使…失败/垮台"
+            },
+            {
+              "type": "paragraph",
+              "text": "as long ago as … 追溯到,早在"
+            },
+            {
+              "type": "paragraph",
+              "text": "make a name for oneself 使自己成名"
+            },
+            {
+              "type": "paragraph",
+              "text": "be at war with … 与…处于战争状态"
+            },
+            {
+              "type": "paragraph",
+              "text": "There was a time when … 曾经有一段时间…"
+            },
+            {
+              "type": "paragraph",
+              "text": "In times of … 在…时期"
+            },
+            {
+              "type": "paragraph",
+              "text": "in memory of sb. 为了纪念某人"
+            },
+            {
+              "type": "paragraph",
+              "text": "if my memory serves me well 如果我没记错的话"
+            },
+            {
+              "type": "paragraph",
+              "text": "sth. be dedicated to the memory of sb 某物用来纪念某人"
+            }
+          ]
+        }
+      ]
+    },
+    "015": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "penny,pence,pennies",
+                "advise和其他表示建议,要求等组成的虚拟语气",
+                "复习can,be able to,manage to"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "penny,pence,pennies",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "penny表示一便士(一分钱)"
+            },
+            {
+              "type": "paragraph",
+              "text": "pence和pennies都是penny的复数,但是两者有区别"
+            },
+            {
+              "type": "code",
+              "text": "a fifty pence   表示一个五十便士的硬币\n\nfifty pennies   表示五十个一便士的硬币"
+            }
+          ]
+        },
+        {
+          "title": "advise和其他表示建议,要求等组成的虚拟语气",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "在advise,demand,order,suggest等等表示建议的动词加从句表示虚拟语气时,虚拟语气结构中的should可以省略"
+            },
+            {
+              "type": "code",
+              "text": "He advised me that I (should) have read that book.   他建议我读这本书.\n\nThe man damanded that the owners of shops (should) pay the 'protection money' to him.\n这位男子要求店主们支付保护费给他.\n\nThe headmaster ordered these students that they be at classroom at this time.(省略了should)\n校长指示学生们这个时间应该在教室."
+            }
+          ]
+        },
+        {
+          "title": "短语动词",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "provide a regular supply of … 提供定期的…补给"
+            },
+            {
+              "type": "paragraph",
+              "text": "grease one’s palm 贿赂某人"
+            }
+          ]
+        }
+      ]
+    },
+    "016": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "复习had better用法",
+                "宾语后的动词为过去分词,现在分词,形容词的情况"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "had better",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "had better表示建议,威胁,催促的意味,语义要比should,ought to更为强烈"
+            },
+            {
+              "type": "paragraph",
+              "text": "had better为固定短语,没有动词变形,否定句一般为had better not …, 疑问句也可以在had后加not"
+            },
+            {
+              "type": "code",
+              "text": "Hadn't we better invite him to our party?  我们是否应该邀请他来我们的排队呢?"
+            }
+          ]
+        },
+        {
+          "title": "宾语后接过去分词,现在分词,形容词的情况",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "在宾语后接过去分词,现在分词,形容词,用来进一步说明宾语的状态(也就是宾语补足语)"
+            },
+            {
+              "type": "paragraph",
+              "text": "各自的区别:"
+            },
+            {
+              "type": "code",
+              "text": "1. She kept the boy standing out of the door.    她让那个男孩一直站在外面\n2. She kept the dog tied to the tree.            她把狗栓在了树上\n3. She kept the door open in order to watch the setting sun.    她把门打开以便看日落"
+            },
+            {
+              "type": "paragraph",
+              "text": "第一句中的宾语是the boy,后接现在分词,因为standing和body是逻辑上的主谓关系,standing这个动作是the boy发出的"
+            },
+            {
+              "type": "paragraph",
+              "text": "第二句中的宾语时the dog,后接过去分词,因为tied和dog不是逻辑上的主谓关系."
+            },
+            {
+              "type": "paragraph",
+              "text": "第三句中的宾语时the door,后接形容词open,表示状态"
+            }
+          ]
+        },
+        {
+          "title": "短语动词",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "bark up the wrong tree. 弄错了对象"
+            },
+            {
+              "type": "paragraph",
+              "text": "tie … to … 将…栓在…"
+            }
+          ]
+        }
+      ]
+    },
+    "017": {
+      "topics": [
+        {
+          "title": "短语动词与结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "by no means 绝不"
+            },
+            {
+              "type": "paragraph",
+              "text": "be taken into account 被…考虑到"
+            },
+            {
+              "type": "paragraph",
+              "text": "take … into account 考虑到…."
+            },
+            {
+              "type": "paragraph",
+              "text": "It had been estimated that … 据估计"
+            },
+            {
+              "type": "paragraph",
+              "text": "one man’s meat is another man’s poison. 萝卜青菜,各有所爱"
+            },
+            {
+              "type": "paragraph",
+              "text": "in response to … 对…的回答"
+            },
+            {
+              "type": "paragraph",
+              "text": "sth be familiar to sb/sb be familiar with sth 某物/某人对某人/某物熟悉"
+            },
+            {
+              "type": "paragraph",
+              "text": "take great interest in sth 对…非常感兴趣"
+            },
+            {
+              "type": "paragraph",
+              "text": "attach A to B. 将A与B连接"
+            },
+            {
+              "type": "paragraph",
+              "text": "To err is human, to forgive is divine. 人非圣贤孰能无过"
+            }
+          ]
+        }
+      ]
+    },
+    "018": {
+      "topics": [
+        {
+          "title": "短语动词与结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "by no means 绝不"
+            },
+            {
+              "type": "paragraph",
+              "text": "be taken into account 被…考虑到"
+            },
+            {
+              "type": "paragraph",
+              "text": "take … into account 考虑到…."
+            },
+            {
+              "type": "paragraph",
+              "text": "It had been estimated that … 据估计"
+            },
+            {
+              "type": "paragraph",
+              "text": "one man’s meat is another man’s poison. 萝卜青菜,各有所爱"
+            },
+            {
+              "type": "paragraph",
+              "text": "in response to … 对…的回答"
+            },
+            {
+              "type": "paragraph",
+              "text": "sth be familiar to sb/sb be familiar with sth 某物/某人对某人/某物熟悉"
+            },
+            {
+              "type": "paragraph",
+              "text": "take great interest in sth 对…非常感兴趣"
+            },
+            {
+              "type": "paragraph",
+              "text": "attach A to B. 将A与B连接"
+            },
+            {
+              "type": "paragraph",
+              "text": "To err is human, to forgive is divine. 人非圣贤孰能无过"
+            }
+          ]
+        }
+      ]
+    },
+    "019": {
+      "topics": [
+        {
+          "title": "动词短语和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "lead an adj. life 过着…样的生活"
+            },
+            {
+              "type": "paragraph",
+              "text": "in safe hands 被照顾的很周全"
+            },
+            {
+              "type": "paragraph",
+              "text": "keep one’s word 信守诺言"
+            },
+            {
+              "type": "paragraph",
+              "text": "break one’s word 食言"
+            },
+            {
+              "type": "paragraph",
+              "text": "eat one’s words 收回某人的话"
+            },
+            {
+              "type": "paragraph",
+              "text": "sure enough 显然"
+            },
+            {
+              "type": "paragraph",
+              "text": "in more ways 在多种方面下"
+            }
+          ]
+        }
+      ]
+    },
+    "020": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "as if与as though"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "as if与as though",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "as if和as though 都可以用来表示似乎,就好像…的意思,as if更常用"
+            },
+            {
+              "type": "paragraph",
+              "text": "as if和as though后面的从句中看情况决定用什么时态:"
+            },
+            {
+              "type": "paragraph",
+              "text": "如果是不可能发生的,或当说明在某种情况下做某事时(概率),需用虚拟语气"
+            },
+            {
+              "type": "paragraph",
+              "text": "如果是描述事实,或当通过现在的某种迹象做出推测,发生几率大时,用陈述语气"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "如果是不可能发生的,或当说明在某种情况下做某事时(概率),需用虚拟语气",
+                "如果是描述事实,或当通过现在的某种迹象做出推测,发生几率大时,用陈述语气"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "made a attempt at doing sth 尝试做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "made a attempt to do sth. 尝试去做某事"
+            }
+          ]
+        }
+      ]
+    },
+    "021": {
+      "topics": [
+        {
+          "title": "强调句",
+          "content": [
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "强调句"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "强调句",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "强调句的结构:"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "It is not + sb/sth + that + 从句",
+                "Not until + sb/sth+ 助动词 + 从句"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "动词短语和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "do sth on end 连续不断地做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "have no cause to do sth 没有任何理由做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "play a joke on sb. 开某人的玩笑"
+            },
+            {
+              "type": "paragraph",
+              "text": "cast sb in … 选派某人担任…的角色"
+            },
+            {
+              "type": "paragraph",
+              "text": "much to sb’s sth. 令某人感到…的是"
+            },
+            {
+              "type": "paragraph",
+              "text": "turn one’s stomach 反胃"
+            },
+            {
+              "type": "paragraph",
+              "text": "when it comes to doing sth / n. 当涉及到,谈论到"
+            },
+            {
+              "type": "paragraph",
+              "text": "assosiate A with B 将A与B联系起来"
+            },
+            {
+              "type": "paragraph",
+              "text": "sth appeal to sb. 某事引起某人兴趣"
+            },
+            {
+              "type": "paragraph",
+              "text": "on impulse 处于冲动"
+            },
+            {
+              "type": "paragraph",
+              "text": "take possession of … 占据…"
+            }
+          ]
+        }
+      ]
+    },
+    "022": {
+      "topics": [
+        {
+          "title": "强调句",
+          "content": [
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "强调句"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "强调句",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "强调句的结构:"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "It is not + sb/sth + that + 从句",
+                "Not until + sb/sth+ 助动词 + 从句"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "动词短语和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "do sth on end 连续不断地做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "have no cause to do sth 没有任何理由做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "play a joke on sb. 开某人的玩笑"
+            },
+            {
+              "type": "paragraph",
+              "text": "cast sb in … 选派某人担任…的角色"
+            },
+            {
+              "type": "paragraph",
+              "text": "much to sb’s sth. 令某人感到…的是"
+            },
+            {
+              "type": "paragraph",
+              "text": "turn one’s stomach 反胃"
+            },
+            {
+              "type": "paragraph",
+              "text": "when it comes to doing sth / n. 当涉及到,谈论到"
+            },
+            {
+              "type": "paragraph",
+              "text": "assosiate A with B 将A与B联系起来"
+            },
+            {
+              "type": "paragraph",
+              "text": "sth appeal to sb. 某事引起某人兴趣"
+            },
+            {
+              "type": "paragraph",
+              "text": "on impulse 处于冲动"
+            },
+            {
+              "type": "paragraph",
+              "text": "take possession of … 占据…"
+            }
+          ]
+        }
+      ]
+    },
+    "023": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "最高级的其他表达方式"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "最高级的其他表达方式",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "除了用the most来表示最高级外,还可以用:"
+            },
+            {
+              "type": "paragraph",
+              "text": "否定词 + so/as + 原级 + as"
+            },
+            {
+              "type": "paragraph",
+              "text": "比较级 + than + any other + 名词"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "否定词 + so/as + 原级 + as Nothing impressed me so deeply as my first trip to China.",
+                "比较级 + than + any other + 名词 He is more brave that any other his fellows."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "at the idea of … 一想到…"
+            },
+            {
+              "type": "paragraph",
+              "text": "tastes differ 人各有好"
+            },
+            {
+              "type": "paragraph",
+              "text": "One man’s meat is another man’s poison. 同上"
+            },
+            {
+              "type": "paragraph",
+              "text": "All things fit not all persons. 众口难调"
+            },
+            {
+              "type": "paragraph",
+              "text": "Beauty is in the eye of the beholder. 情人眼里出西施"
+            }
+          ]
+        }
+      ]
+    },
+    "024": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "表示将来行为的词组"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "表示将来行为的词组",
+          "content": [
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "be about to do sth 即将做某事(立即就去,不可与Immediately,at once等连用)",
+                "be not about to do sth 不愿意做某事",
+                "be on the point of doing sth",
+                "be to do sth 按计划安排将要发生的事"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "to varying degrees 在不同程度上"
+            }
+          ]
+        }
+      ]
+    },
+    "025": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "复习动名词"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "复习动名词",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "动名词既可以当名词,形容词,还可以当动词; 当动词时可以有自己的宾语,副词等"
+            },
+            {
+              "type": "code",
+              "text": "Fishing is my favorite sport. 当名词\n\nHe wants to catch the swimming fish.  当形容词`\n\nI like thinking of my life quietly in the bed.   当动词,并且有自己的宾语,副词"
+            },
+            {
+              "type": "paragraph",
+              "text": "动名词可以和完成时,被动语态连用"
+            },
+            {
+              "type": "code",
+              "text": "I'm sorry for having wasted your time. \n\nAfter having been instructed to drive out of town, I began to acquire confidence."
+            },
+            {
+              "type": "paragraph",
+              "text": "动名词可以作为状语,表示正在进行的动作,或者表示原因,状态等"
+            },
+            {
+              "type": "code",
+              "text": "Working in the garden, he noticed a huge number of snails clinging to his plants.   动名词表示正在进行时\n\nConsidering she is too old, the police let her off.  表示原因\n\nnapping on the desk, hw was asked to answer the question by the teacher."
+            }
+          ]
+        },
+        {
+          "title": "动词短语和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "have influence over sb. 对某人有影响"
+            },
+            {
+              "type": "paragraph",
+              "text": "be under the influence of … 受到…的影响"
+            },
+            {
+              "type": "paragraph",
+              "text": "pride oneslef on … 对…感到自豪"
+            },
+            {
+              "type": "paragraph",
+              "text": "take pride in … 以…为豪"
+            },
+            {
+              "type": "paragraph",
+              "text": "in the pride of … 处于全盛时期"
+            }
+          ]
+        }
+      ]
+    },
+    "026": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "复习动名词"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "复习动名词",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "动名词既可以当名词,形容词,还可以当动词; 当动词时可以有自己的宾语,副词等"
+            },
+            {
+              "type": "code",
+              "text": "Fishing is my favorite sport. 当名词\n\nHe wants to catch the swimming fish.  当形容词`\n\nI like thinking of my life quietly in the bed.   当动词,并且有自己的宾语,副词"
+            },
+            {
+              "type": "paragraph",
+              "text": "动名词可以和完成时,被动语态连用"
+            },
+            {
+              "type": "code",
+              "text": "I'm sorry for having wasted your time. \n\nAfter having been instructed to drive out of town, I began to acquire confidence."
+            },
+            {
+              "type": "paragraph",
+              "text": "动名词可以作为状语,表示正在进行的动作,或者表示原因,状态等"
+            },
+            {
+              "type": "code",
+              "text": "Working in the garden, he noticed a huge number of snails clinging to his plants.   动名词表示正在进行时\n\nConsidering she is too old, the police let her off.  表示原因\n\nnapping on the desk, hw was asked to answer the question by the teacher."
+            }
+          ]
+        },
+        {
+          "title": "动词短语和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "have influence over sb. 对某人有影响"
+            },
+            {
+              "type": "paragraph",
+              "text": "be under the influence of … 受到…的影响"
+            },
+            {
+              "type": "paragraph",
+              "text": "pride oneslef on … 对…感到自豪"
+            },
+            {
+              "type": "paragraph",
+              "text": "take pride in … 以…为豪"
+            },
+            {
+              "type": "paragraph",
+              "text": "in the pride of … 处于全盛时期"
+            }
+          ]
+        }
+      ]
+    },
+    "027": {
+      "topics": [
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "in the light of … 依据,按照"
+            },
+            {
+              "type": "paragraph",
+              "text": "in terms of … 在…方面"
+            },
+            {
+              "type": "paragraph",
+              "text": "The only exception to … 唯一的例外是…"
+            },
+            {
+              "type": "paragraph",
+              "text": "fully aware of … 完全意料到"
+            },
+            {
+              "type": "paragraph",
+              "text": "put sth in the same class 将…归为同一类"
+            },
+            {
+              "type": "paragraph",
+              "text": "be free from … 免于…"
+            },
+            {
+              "type": "paragraph",
+              "text": "have every intention of doing sth. 非常想做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "go to great length to do sth 竭力做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "bargain with sb for sth. 与某人为某物讨价"
+            }
+          ]
+        }
+      ]
+    },
+    "028": {
+      "topics": [
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "in the light of … 依据,按照"
+            },
+            {
+              "type": "paragraph",
+              "text": "in terms of … 在…方面"
+            },
+            {
+              "type": "paragraph",
+              "text": "The only exception to … 唯一的例外是…"
+            },
+            {
+              "type": "paragraph",
+              "text": "fully aware of … 完全意料到"
+            },
+            {
+              "type": "paragraph",
+              "text": "put sth in the same class 将…归为同一类"
+            },
+            {
+              "type": "paragraph",
+              "text": "be free from … 免于…"
+            },
+            {
+              "type": "paragraph",
+              "text": "have every intention of doing sth. 非常想做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "go to great length to do sth 竭力做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "bargain with sb for sth. 与某人为某物讨价"
+            }
+          ]
+        }
+      ]
+    },
+    "029": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "whether和if的区别"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "whether和if的区别",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "whether和if都可以用来表示是否"
+            },
+            {
+              "type": "paragraph",
+              "text": "但是只有whether可以跟在介词后,不能用If"
+            },
+            {
+              "type": "code",
+              "text": "I'm thinking of whether I should go there."
+            },
+            {
+              "type": "paragraph",
+              "text": "在动词不定式后,只能用whether,不能用If"
+            },
+            {
+              "type": "code",
+              "text": "I haven't decided whether to go."
+            }
+          ]
+        },
+        {
+          "title": "动词短语和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "stems … from … 起源于…."
+            },
+            {
+              "type": "paragraph",
+              "text": "take heart 鼓起勇气"
+            },
+            {
+              "type": "paragraph",
+              "text": "come into power 掌权"
+            },
+            {
+              "type": "paragraph",
+              "text": "come into being 产生,形成"
+            },
+            {
+              "type": "paragraph",
+              "text": "Misfortunes never come along 祸不单行"
+            },
+            {
+              "type": "paragraph",
+              "text": "be bound up with … 与…联系在一起"
+            }
+          ]
+        }
+      ]
+    },
+    "030": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "old的两种比较级形式",
+                "死亡的委婉说法"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "old的两种比较级形式",
+          "content": [
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "既可以用来表示人的实际年龄的大小,也可用来表示物的新旧及其他引申意义"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "指人的长幼,常用在表示亲属前"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "死亡的委婉说法",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "go to heaven"
+            },
+            {
+              "type": "paragraph",
+              "text": "pass away"
+            },
+            {
+              "type": "paragraph",
+              "text": "fell asleep"
+            },
+            {
+              "type": "paragraph",
+              "text": "be no more"
+            },
+            {
+              "type": "paragraph",
+              "text": "breathe one’s last (breath)"
+            },
+            {
+              "type": "paragraph",
+              "text": "sleep the final sleep"
+            },
+            {
+              "type": "paragraph",
+              "text": "go to a better world"
+            },
+            {
+              "type": "paragraph",
+              "text": "go to sleep forever"
+            },
+            {
+              "type": "paragraph",
+              "text": "go west"
+            },
+            {
+              "type": "paragraph",
+              "text": "kick the bucket"
+            }
+          ]
+        },
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "stay up 熬夜"
+            },
+            {
+              "type": "paragraph",
+              "text": "none other than … 不是别人,而正是…"
+            },
+            {
+              "type": "paragraph",
+              "text": "be obliged to do sth 被迫做某事"
+            }
+          ]
+        }
+      ]
+    },
+    "031": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "动名词的逻辑主语"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "动名词的逻辑主语",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "有一些可以带-ing形式的动词,其间可插入一个名词或代词,这个词有时必须是宾格,有时必须是所有格,有时可以为两者中的任一个;这个名词或代词即是动名词的逻辑主语"
+            },
+            {
+              "type": "code",
+              "text": "I had better not catch you doing that again!   此处动名词逻辑主语you为宾格\n\nWould you mind my/me unlocking this suitcase please?  此处动名词的逻辑主语既可以用宾格,也可以用主格\n\nThe customer insisted on the assistant's wearing the dress before he bought.  此处动名词的逻辑主语为所有格the assistant's\n\nI can't imagine John and Frank paying so much for a piano. 动名词的逻辑主语如果有一个以上的名字,一般用宾格形式"
+            }
+          ]
+        },
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Don’t judge a book by its cover. 人不可貌相"
+            },
+            {
+              "type": "paragraph",
+              "text": "The best fish swims near the bottom. 真人不露相"
+            },
+            {
+              "type": "paragraph",
+              "text": "be conscious of … 意识到…"
+            },
+            {
+              "type": "paragraph",
+              "text": "follow the routine 按照惯例"
+            },
+            {
+              "type": "paragraph",
+              "text": "break the routine 打破惯例"
+            },
+            {
+              "type": "paragraph",
+              "text": "draw attention to … 引起对…的注意"
+            }
+          ]
+        }
+      ]
+    },
+    "032": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "together with … 与主谓一致的问题"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "together with … 与主谓一致的问题",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "当主语后跟along with/together with/as well as/in addition to等等(相当于插入语,也可以放句尾)引导的词汇,其后的动词形式取决于主语的形式,跟插入语无关"
+            },
+            {
+              "type": "code",
+              "text": "A young woman, together with her two baby daughters, was survived the air crash.  主语为A yound woman,单数形式\n\nTom, as well as his parents, is having a holiday in France."
+            }
+          ]
+        },
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "come to light 为人所知"
+            },
+            {
+              "type": "paragraph",
+              "text": "under the impression that … 认为…"
+            },
+            {
+              "type": "paragraph",
+              "text": "piece together … 拼凑"
+            }
+          ]
+        }
+      ]
+    },
+    "033": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "独立主格"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "独立主格",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "独立主格的特征 独立主格的更多简介 独立主格的用法一览"
+            },
+            {
+              "type": "paragraph",
+              "text": "独立主格的特点:"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "逻辑主语和句子的主语不同",
+                "名词或代词与后面的分词,形容词,副词,不定式,介词等为主谓关系",
+                "该结构一般有逗号与主句分开"
+              ]
+            },
+            {
+              "type": "code",
+              "text": "The man lay there, (with) his hands trembling.  现在分词形式的独立主格 (his hands为逻辑主语)\n\nThe bottles broken, he swept it up.    过去分词形式\n\nThe wether fine, we decided to take a stroll.   形容词形式"
+            }
+          ]
+        },
+        {
+          "title": "动词短语和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "on a big scale 大规模地"
+            },
+            {
+              "type": "paragraph",
+              "text": "above all 最重要的是"
+            },
+            {
+              "type": "paragraph",
+              "text": "beyond doubt 无需质疑地"
+            },
+            {
+              "type": "paragraph",
+              "text": "cease to do sth (慢慢地)终止做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "hand over … 移交"
+            },
+            {
+              "type": "paragraph",
+              "text": "… of sb’s/sth’s own accord 自愿地"
+            }
+          ]
+        }
+      ]
+    },
+    "034": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "独立主格"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "独立主格",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "独立主格的特征 独立主格的更多简介 独立主格的用法一览"
+            },
+            {
+              "type": "paragraph",
+              "text": "独立主格的特点:"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "逻辑主语和句子的主语不同",
+                "名词或代词与后面的分词,形容词,副词,不定式,介词等为主谓关系",
+                "该结构一般有逗号与主句分开"
+              ]
+            },
+            {
+              "type": "code",
+              "text": "The man lay there, (with) his hands trembling.  现在分词形式的独立主格 (his hands为逻辑主语)\n\nThe bottles broken, he swept it up.    过去分词形式\n\nThe wether fine, we decided to take a stroll.   形容词形式"
+            }
+          ]
+        },
+        {
+          "title": "动词短语和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "on a big scale 大规模地"
+            },
+            {
+              "type": "paragraph",
+              "text": "above all 最重要的是"
+            },
+            {
+              "type": "paragraph",
+              "text": "beyond doubt 无需质疑地"
+            },
+            {
+              "type": "paragraph",
+              "text": "cease to do sth (慢慢地)终止做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "hand over … 移交"
+            },
+            {
+              "type": "paragraph",
+              "text": "… of sb’s/sth’s own accord 自愿地"
+            }
+          ]
+        }
+      ]
+    },
+    "035": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "独立主格"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "独立主格",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "独立主格的特征 独立主格的更多简介 独立主格的用法一览"
+            },
+            {
+              "type": "paragraph",
+              "text": "独立主格的特点:"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "逻辑主语和句子的主语不同",
+                "名词或代词与后面的分词,形容词,副词,不定式,介词等为主谓关系",
+                "该结构一般有逗号与主句分开"
+              ]
+            },
+            {
+              "type": "code",
+              "text": "The man lay there, (with) his hands trembling.  现在分词形式的独立主格 (his hands为逻辑主语)\n\nThe bottles broken, he swept it up.    过去分词形式\n\nThe wether fine, we decided to take a stroll.   形容词形式"
+            }
+          ]
+        },
+        {
+          "title": "动词短语和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "on a big scale 大规模地"
+            },
+            {
+              "type": "paragraph",
+              "text": "above all 最重要的是"
+            },
+            {
+              "type": "paragraph",
+              "text": "beyond doubt 无需质疑地"
+            },
+            {
+              "type": "paragraph",
+              "text": "cease to do sth (慢慢地)终止做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "hand over … 移交"
+            },
+            {
+              "type": "paragraph",
+              "text": "… of sb’s/sth’s own accord 自愿地"
+            }
+          ]
+        }
+      ]
+    },
+    "036": {
+      "topics": [
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "bring about … 实施"
+            },
+            {
+              "type": "paragraph",
+              "text": "pour scorn on … 挖苦…"
+            },
+            {
+              "type": "paragraph",
+              "text": "bring … to a conclusion 使…结束"
+            },
+            {
+              "type": "paragraph",
+              "text": "in black and white 白纸黑字"
+            },
+            {
+              "type": "paragraph",
+              "text": "a note of triumph 胜利者的调子"
+            },
+            {
+              "type": "paragraph",
+              "text": "take advantage of … 利用"
+            },
+            {
+              "type": "paragraph",
+              "text": "pour oil on fire 火上浇油"
+            },
+            {
+              "type": "paragraph",
+              "text": "pour oil on troubled waters 平息争端"
+            },
+            {
+              "type": "paragraph",
+              "text": "come into being 出现,产生"
+            },
+            {
+              "type": "paragraph",
+              "text": "shed light on … 使…显现出来"
+            }
+          ]
+        }
+      ]
+    },
+    "037": {
+      "topics": [
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "bring about … 实施"
+            },
+            {
+              "type": "paragraph",
+              "text": "pour scorn on … 挖苦…"
+            },
+            {
+              "type": "paragraph",
+              "text": "bring … to a conclusion 使…结束"
+            },
+            {
+              "type": "paragraph",
+              "text": "in black and white 白纸黑字"
+            },
+            {
+              "type": "paragraph",
+              "text": "a note of triumph 胜利者的调子"
+            },
+            {
+              "type": "paragraph",
+              "text": "take advantage of … 利用"
+            },
+            {
+              "type": "paragraph",
+              "text": "pour oil on fire 火上浇油"
+            },
+            {
+              "type": "paragraph",
+              "text": "pour oil on troubled waters 平息争端"
+            },
+            {
+              "type": "paragraph",
+              "text": "come into being 出现,产生"
+            },
+            {
+              "type": "paragraph",
+              "text": "shed light on … 使…显现出来"
+            }
+          ]
+        }
+      ]
+    },
+    "038": {
+      "topics": [
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "bring about … 实施"
+            },
+            {
+              "type": "paragraph",
+              "text": "pour scorn on … 挖苦…"
+            },
+            {
+              "type": "paragraph",
+              "text": "bring … to a conclusion 使…结束"
+            },
+            {
+              "type": "paragraph",
+              "text": "in black and white 白纸黑字"
+            },
+            {
+              "type": "paragraph",
+              "text": "a note of triumph 胜利者的调子"
+            },
+            {
+              "type": "paragraph",
+              "text": "take advantage of … 利用"
+            },
+            {
+              "type": "paragraph",
+              "text": "pour oil on fire 火上浇油"
+            },
+            {
+              "type": "paragraph",
+              "text": "pour oil on troubled waters 平息争端"
+            },
+            {
+              "type": "paragraph",
+              "text": "come into being 出现,产生"
+            },
+            {
+              "type": "paragraph",
+              "text": "shed light on … 使…显现出来"
+            }
+          ]
+        }
+      ]
+    },
+    "039": {
+      "topics": [
+        {
+          "title": "动词短语和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "give way to … 取而代之的是…/让位给…"
+            },
+            {
+              "type": "paragraph",
+              "text": "No offence. 不要见怪"
+            },
+            {
+              "type": "paragraph",
+              "text": "Up to you. 随你自己的便"
+            },
+            {
+              "type": "paragraph",
+              "text": "play a hoax/trick on sb 戏弄某人"
+            },
+            {
+              "type": "paragraph",
+              "text": "specialize in … 专门从事"
+            }
+          ]
+        }
+      ]
+    },
+    "040": {
+      "topics": [
+        {
+          "title": "动词短语和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "give way to … 取而代之的是…/让位给…"
+            },
+            {
+              "type": "paragraph",
+              "text": "No offence. 不要见怪"
+            },
+            {
+              "type": "paragraph",
+              "text": "Up to you. 随你自己的便"
+            },
+            {
+              "type": "paragraph",
+              "text": "play a hoax/trick on sb 戏弄某人"
+            },
+            {
+              "type": "paragraph",
+              "text": "specialize in … 专门从事"
+            }
+          ]
+        }
+      ]
+    },
+    "041": {
+      "topics": [
+        {
+          "title": "动词短语和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "make do with … 凑合着用…"
+            },
+            {
+              "type": "paragraph",
+              "text": "pace of living 生活节奏"
+            },
+            {
+              "type": "paragraph",
+              "text": "go into raptures (over/about) 变得极其喜爱"
+            },
+            {
+              "type": "paragraph",
+              "text": "under the illusion 有…的错觉"
+            },
+            {
+              "type": "paragraph",
+              "text": "be superior to … 优于…"
+            },
+            {
+              "type": "paragraph",
+              "text": "down to a close 临近结束"
+            },
+            {
+              "type": "paragraph",
+              "text": "edge one’s way 侧身缓缓…移动"
+            },
+            {
+              "type": "paragraph",
+              "text": "speak the same language 志同道合"
+            }
+          ]
+        }
+      ]
+    },
+    "042": {
+      "topics": [
+        {
+          "title": "动词短语和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "make do with … 凑合着用…"
+            },
+            {
+              "type": "paragraph",
+              "text": "pace of living 生活节奏"
+            },
+            {
+              "type": "paragraph",
+              "text": "go into raptures (over/about) 变得极其喜爱"
+            },
+            {
+              "type": "paragraph",
+              "text": "under the illusion 有…的错觉"
+            },
+            {
+              "type": "paragraph",
+              "text": "be superior to … 优于…"
+            },
+            {
+              "type": "paragraph",
+              "text": "down to a close 临近结束"
+            },
+            {
+              "type": "paragraph",
+              "text": "edge one’s way 侧身缓缓…移动"
+            },
+            {
+              "type": "paragraph",
+              "text": "speak the same language 志同道合"
+            }
+          ]
+        }
+      ]
+    },
+    "043": {
+      "topics": [
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "in the event of … 万一"
+            },
+            {
+              "type": "paragraph",
+              "text": "make a claim of … 提出…的要求"
+            },
+            {
+              "type": "paragraph",
+              "text": "Floow suit. 照着做"
+            },
+            {
+              "type": "paragraph",
+              "text": "take sb’s mind off sth. 摆脱某事带来的困扰"
+            },
+            {
+              "type": "paragraph",
+              "text": "in snatches. 断断续续地"
+            },
+            {
+              "type": "paragraph",
+              "text": "lull sb to sleep. 使某人昏昏欲睡"
+            },
+            {
+              "type": "paragraph",
+              "text": "lull sb into doing sth. 哄骗某人做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "keep sb occupied. 使某人忙碌"
+            },
+            {
+              "type": "paragraph",
+              "text": "more often than not. 经常"
+            }
+          ]
+        }
+      ]
+    },
+    "044": {
+      "topics": [
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "in the event of … 万一"
+            },
+            {
+              "type": "paragraph",
+              "text": "make a claim of … 提出…的要求"
+            },
+            {
+              "type": "paragraph",
+              "text": "Floow suit. 照着做"
+            },
+            {
+              "type": "paragraph",
+              "text": "take sb’s mind off sth. 摆脱某事带来的困扰"
+            },
+            {
+              "type": "paragraph",
+              "text": "in snatches. 断断续续地"
+            },
+            {
+              "type": "paragraph",
+              "text": "lull sb to sleep. 使某人昏昏欲睡"
+            },
+            {
+              "type": "paragraph",
+              "text": "lull sb into doing sth. 哄骗某人做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "keep sb occupied. 使某人忙碌"
+            },
+            {
+              "type": "paragraph",
+              "text": "more often than not. 经常"
+            }
+          ]
+        }
+      ]
+    },
+    "045": {
+      "topics": [
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "be exclusive of … 排除…在外"
+            },
+            {
+              "type": "paragraph",
+              "text": "plead ignorance of … 以不知…为借口"
+            },
+            {
+              "type": "paragraph",
+              "text": "so far as … 到…的程度"
+            },
+            {
+              "type": "paragraph",
+              "text": "as … as anything (else) 不得了/了不得的…"
+            },
+            {
+              "type": "paragraph",
+              "text": "get round to … 抽出时间去做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "nag sb to do sth. 唠唠叨叨让某人去做某事"
+            }
+          ]
+        }
+      ]
+    },
+    "046": {
+      "topics": [
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "be exclusive of … 排除…在外"
+            },
+            {
+              "type": "paragraph",
+              "text": "plead ignorance of … 以不知…为借口"
+            },
+            {
+              "type": "paragraph",
+              "text": "so far as … 到…的程度"
+            },
+            {
+              "type": "paragraph",
+              "text": "as … as anything (else) 不得了/了不得的…"
+            },
+            {
+              "type": "paragraph",
+              "text": "get round to … 抽出时间去做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "nag sb to do sth. 唠唠叨叨让某人去做某事"
+            }
+          ]
+        }
+      ]
+    },
+    "047": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "缩略语"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "缩略语",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "缩略语为省略了单词,复合词,短语等的一些字母或只是使用其首字母的一种简短形式"
+            },
+            {
+              "type": "paragraph",
+              "text": "缩略语的5种基本形式:"
+            },
+            {
+              "type": "paragraph",
+              "text": "由单词的首字母组成,按完整的单词发音"
+            },
+            {
+              "type": "paragraph",
+              "text": "由单词的几个字母组成,按完整的单词发音"
+            },
+            {
+              "type": "paragraph",
+              "text": "省略了单词的某些字母,按完整的单词发音"
+            },
+            {
+              "type": "paragraph",
+              "text": "由一词组中的各主要词的首字母组成,分别发出各字母的读音,主重音在最后一个字母"
+            },
+            {
+              "type": "paragraph",
+              "text": "由一组词中各主要词的首字母缩合成一个新词(首字母缩拼词),读成一个单词,一般用大写,如果用小写则已经视成了普通名词"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "由单词的首字母组成,按完整的单词发音 m = metre 米 N = North 北方",
+                "由单词的几个字母组成,按完整的单词发音 usu. = usually 通常 Brit. = British. 不列颠",
+                "省略了单词的某些字母,按完整的单词发音 asst. = assistant 助手 dept. = department 系",
+                "由一词组中的各主要词的首字母组成,分别发出各字母的读音,主重音在最后一个字母 CD = compact disc 光盘 USA = United states of America 美国 VIP = very important person 大人物",
+                "由一组词中各主要词的首字母缩合成一个新词(首字母缩拼词),读成一个单词,一般用大写,如果用小写则已经视成了普通名词 TEFL/tefl = teaching English as a foreign language 作为外语的英语教学 BASIC = Beginner's All-purpose Symbolic Instruction Code 初学者通用符号指令码"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "have the choise of … or … 在…或…之间选择"
+            },
+            {
+              "type": "paragraph",
+              "text": "make one’s contribution to … 做出自己的贡献"
+            },
+            {
+              "type": "paragraph",
+              "text": "several bus loads of food/… 能够装满几辆巴士的食物/…"
+            },
+            {
+              "type": "paragraph",
+              "text": "be inaccessible to … …是难以到达的"
+            },
+            {
+              "type": "paragraph",
+              "text": "by shy of … 对…害怕"
+            },
+            {
+              "type": "paragraph",
+              "text": "come to life 苏醒过来，有了生气"
+            },
+            {
+              "type": "paragraph",
+              "text": "be packed like sardine 挤满了人"
+            },
+            {
+              "type": "paragraph",
+              "text": "The shoe is on the other foot. 今非昔比"
+            }
+          ]
+        }
+      ]
+    },
+    "048": {
+      "topics": [
+        {
+          "title": "Main knowledge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Main knowledge"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "缩略语"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "缩略语",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "缩略语为省略了单词,复合词,短语等的一些字母或只是使用其首字母的一种简短形式"
+            },
+            {
+              "type": "paragraph",
+              "text": "缩略语的5种基本形式:"
+            },
+            {
+              "type": "paragraph",
+              "text": "由单词的首字母组成,按完整的单词发音"
+            },
+            {
+              "type": "paragraph",
+              "text": "由单词的几个字母组成,按完整的单词发音"
+            },
+            {
+              "type": "paragraph",
+              "text": "省略了单词的某些字母,按完整的单词发音"
+            },
+            {
+              "type": "paragraph",
+              "text": "由一词组中的各主要词的首字母组成,分别发出各字母的读音,主重音在最后一个字母"
+            },
+            {
+              "type": "paragraph",
+              "text": "由一组词中各主要词的首字母缩合成一个新词(首字母缩拼词),读成一个单词,一般用大写,如果用小写则已经视成了普通名词"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "由单词的首字母组成,按完整的单词发音 m = metre 米 N = North 北方",
+                "由单词的几个字母组成,按完整的单词发音 usu. = usually 通常 Brit. = British. 不列颠",
+                "省略了单词的某些字母,按完整的单词发音 asst. = assistant 助手 dept. = department 系",
+                "由一词组中的各主要词的首字母组成,分别发出各字母的读音,主重音在最后一个字母 CD = compact disc 光盘 USA = United states of America 美国 VIP = very important person 大人物",
+                "由一组词中各主要词的首字母缩合成一个新词(首字母缩拼词),读成一个单词,一般用大写,如果用小写则已经视成了普通名词 TEFL/tefl = teaching English as a foreign language 作为外语的英语教学 BASIC = Beginner's All-purpose Symbolic Instruction Code 初学者通用符号指令码"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "have the choise of … or … 在…或…之间选择"
+            },
+            {
+              "type": "paragraph",
+              "text": "make one’s contribution to … 做出自己的贡献"
+            },
+            {
+              "type": "paragraph",
+              "text": "several bus loads of food/… 能够装满几辆巴士的食物/…"
+            },
+            {
+              "type": "paragraph",
+              "text": "be inaccessible to … …是难以到达的"
+            },
+            {
+              "type": "paragraph",
+              "text": "by shy of … 对…害怕"
+            },
+            {
+              "type": "paragraph",
+              "text": "come to life 苏醒过来，有了生气"
+            },
+            {
+              "type": "paragraph",
+              "text": "be packed like sardine 挤满了人"
+            },
+            {
+              "type": "paragraph",
+              "text": "The shoe is on the other foot. 今非昔比"
+            }
+          ]
+        }
+      ]
+    },
+    "049": {
+      "topics": [
+        {
+          "title": "表示可能性和肯定性的副词(从可能性最小开始)",
+          "content": [
+            {
+              "type": "blockquote",
+              "text": "possibly"
+            },
+            {
+              "type": "blockquote",
+              "text": "perhaps, maybe"
+            },
+            {
+              "type": "blockquote",
+              "text": "hopefully"
+            },
+            {
+              "type": "blockquote",
+              "text": "probably"
+            },
+            {
+              "type": "blockquote",
+              "text": "presumably"
+            },
+            {
+              "type": "blockquote",
+              "text": "almost"
+            },
+            {
+              "type": "blockquote",
+              "text": "certainly"
+            },
+            {
+              "type": "blockquote",
+              "text": "no doubt, doubtless"
+            },
+            {
+              "type": "blockquote",
+              "text": "difinitely"
+            }
+          ]
+        },
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "air one’s view on … 就…发表意见"
+            },
+            {
+              "type": "paragraph",
+              "text": "be attached to … 喜欢,中意"
+            },
+            {
+              "type": "paragraph",
+              "text": "carry on an unrelenting search for … 为寻找…坚持不懈"
+            },
+            {
+              "type": "paragraph",
+              "text": "Take one’s time. 别着急"
+            },
+            {
+              "type": "paragraph",
+              "text": "More hastes, less speed. 欲速则不达"
+            },
+            {
+              "type": "paragraph",
+              "text": "Hastes make waste. 同上"
+            },
+            {
+              "type": "paragraph",
+              "text": "make a resolution to do sth. 下决心去做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "apply oneself to sth. 全力以赴的专心于某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "years in years out 年复一年"
+            },
+            {
+              "type": "paragraph",
+              "text": "keep … to oneself 将…藏于心底"
+            },
+            {
+              "type": "paragraph",
+              "text": "twist … into … 把…歪曲(扭曲)成…"
+            }
+          ]
+        }
+      ]
+    },
+    "050": {
+      "topics": [
+        {
+          "title": "表示可能性和肯定性的副词(从可能性最小开始)",
+          "content": [
+            {
+              "type": "blockquote",
+              "text": "possibly"
+            },
+            {
+              "type": "blockquote",
+              "text": "perhaps, maybe"
+            },
+            {
+              "type": "blockquote",
+              "text": "hopefully"
+            },
+            {
+              "type": "blockquote",
+              "text": "probably"
+            },
+            {
+              "type": "blockquote",
+              "text": "presumably"
+            },
+            {
+              "type": "blockquote",
+              "text": "almost"
+            },
+            {
+              "type": "blockquote",
+              "text": "certainly"
+            },
+            {
+              "type": "blockquote",
+              "text": "no doubt, doubtless"
+            },
+            {
+              "type": "blockquote",
+              "text": "difinitely"
+            }
+          ]
+        },
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "air one’s view on … 就…发表意见"
+            },
+            {
+              "type": "paragraph",
+              "text": "be attached to … 喜欢,中意"
+            },
+            {
+              "type": "paragraph",
+              "text": "carry on an unrelenting search for … 为寻找…坚持不懈"
+            },
+            {
+              "type": "paragraph",
+              "text": "Take one’s time. 别着急"
+            },
+            {
+              "type": "paragraph",
+              "text": "More hastes, less speed. 欲速则不达"
+            },
+            {
+              "type": "paragraph",
+              "text": "Hastes make waste. 同上"
+            },
+            {
+              "type": "paragraph",
+              "text": "make a resolution to do sth. 下决心去做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "apply oneself to sth. 全力以赴的专心于某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "years in years out 年复一年"
+            },
+            {
+              "type": "paragraph",
+              "text": "keep … to oneself 将…藏于心底"
+            },
+            {
+              "type": "paragraph",
+              "text": "twist … into … 把…歪曲(扭曲)成…"
+            }
+          ]
+        }
+      ]
+    },
+    "051": {
+      "topics": [
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "point the way to … 指出通往…的道路"
+            },
+            {
+              "type": "paragraph",
+              "text": "diagnose sb with … 某人被诊断为…"
+            },
+            {
+              "type": "paragraph",
+              "text": "relieve sb of … 减轻某人的负担(责任)"
+            },
+            {
+              "type": "paragraph",
+              "text": "It’s the first step that costs. 万事开头难"
+            },
+            {
+              "type": "paragraph",
+              "text": "Well begun is half done. 同上"
+            },
+            {
+              "type": "paragraph",
+              "text": "A good beginning is a half the battle. 同上"
+            },
+            {
+              "type": "paragraph",
+              "text": "beat a hasty retreat. 匆忙撤退"
+            },
+            {
+              "type": "paragraph",
+              "text": "come into the possession 拥有"
+            },
+            {
+              "type": "paragraph",
+              "text": "be fond of sth. 喜爱某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "on the spot. 在现场"
+            },
+            {
+              "type": "paragraph",
+              "text": "out of stock. 没有存货"
+            },
+            {
+              "type": "paragraph",
+              "text": "keep a straight face. 一本正经"
+            },
+            {
+              "type": "paragraph",
+              "text": "You reap what you sow. 种瓜得瓜种豆得豆"
+            },
+            {
+              "type": "paragraph",
+              "text": "put on an act. 装模作样"
+            }
+          ]
+        }
+      ]
+    },
+    "052": {
+      "topics": [
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "point the way to … 指出通往…的道路"
+            },
+            {
+              "type": "paragraph",
+              "text": "diagnose sb with … 某人被诊断为…"
+            },
+            {
+              "type": "paragraph",
+              "text": "relieve sb of … 减轻某人的负担(责任)"
+            },
+            {
+              "type": "paragraph",
+              "text": "It’s the first step that costs. 万事开头难"
+            },
+            {
+              "type": "paragraph",
+              "text": "Well begun is half done. 同上"
+            },
+            {
+              "type": "paragraph",
+              "text": "A good beginning is a half the battle. 同上"
+            },
+            {
+              "type": "paragraph",
+              "text": "beat a hasty retreat. 匆忙撤退"
+            },
+            {
+              "type": "paragraph",
+              "text": "come into the possession 拥有"
+            },
+            {
+              "type": "paragraph",
+              "text": "be fond of sth. 喜爱某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "on the spot. 在现场"
+            },
+            {
+              "type": "paragraph",
+              "text": "out of stock. 没有存货"
+            },
+            {
+              "type": "paragraph",
+              "text": "keep a straight face. 一本正经"
+            },
+            {
+              "type": "paragraph",
+              "text": "You reap what you sow. 种瓜得瓜种豆得豆"
+            },
+            {
+              "type": "paragraph",
+              "text": "put on an act. 装模作样"
+            }
+          ]
+        }
+      ]
+    },
+    "053": {
+      "topics": [
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "in the interest of … 为了某人的利益"
+            },
+            {
+              "type": "paragraph",
+              "text": "in the belief that … 自以为…,相信"
+            },
+            {
+              "type": "paragraph",
+              "text": "be subject to … 受到…的控制"
+            },
+            {
+              "type": "paragraph",
+              "text": "on one’s behalf 代表某人"
+            },
+            {
+              "type": "paragraph",
+              "text": "projudice A against B. 使A对B抱有偏见"
+            },
+            {
+              "type": "paragraph",
+              "text": "loadg a complaint against … 对…提出控诉"
+            },
+            {
+              "type": "paragraph",
+              "text": "put an end to sth. 了断某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "Take things as they come. 既来之,则安之"
+            },
+            {
+              "type": "paragraph",
+              "text": "bring up to do sth. 生来就要做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "stood in awe 肃然起敬"
+            },
+            {
+              "type": "paragraph",
+              "text": "wage war on … 与…奋战"
+            },
+            {
+              "type": "paragraph",
+              "text": "have a horror of sth. 害怕某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "Make it snappy. 快点吧!"
+            }
+          ]
+        }
+      ]
+    },
+    "054": {
+      "topics": [
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "in the interest of … 为了某人的利益"
+            },
+            {
+              "type": "paragraph",
+              "text": "in the belief that … 自以为…,相信"
+            },
+            {
+              "type": "paragraph",
+              "text": "be subject to … 受到…的控制"
+            },
+            {
+              "type": "paragraph",
+              "text": "on one’s behalf 代表某人"
+            },
+            {
+              "type": "paragraph",
+              "text": "projudice A against B. 使A对B抱有偏见"
+            },
+            {
+              "type": "paragraph",
+              "text": "loadg a complaint against … 对…提出控诉"
+            },
+            {
+              "type": "paragraph",
+              "text": "put an end to sth. 了断某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "Take things as they come. 既来之,则安之"
+            },
+            {
+              "type": "paragraph",
+              "text": "bring up to do sth. 生来就要做某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "stood in awe 肃然起敬"
+            },
+            {
+              "type": "paragraph",
+              "text": "wage war on … 与…奋战"
+            },
+            {
+              "type": "paragraph",
+              "text": "have a horror of sth. 害怕某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "Make it snappy. 快点吧!"
+            }
+          ]
+        }
+      ]
+    },
+    "055": {
+      "topics": [
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "paly an important part in … 在…扮演着一个重要的角色"
+            },
+            {
+              "type": "paragraph",
+              "text": "make a living 生存下来"
+            },
+            {
+              "type": "paragraph",
+              "text": "In a heat wave 在大热天里"
+            },
+            {
+              "type": "paragraph",
+              "text": "spell disasters for … 为…带来灾难"
+            },
+            {
+              "type": "paragraph",
+              "text": "take turn in doing … 轮流做某事"
+            }
+          ]
+        }
+      ]
+    },
+    "056": {
+      "topics": [
+        {
+          "title": "短语动词和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "paly an important part in … 在…扮演着一个重要的角色"
+            },
+            {
+              "type": "paragraph",
+              "text": "make a living 生存下来"
+            },
+            {
+              "type": "paragraph",
+              "text": "In a heat wave 在大热天里"
+            },
+            {
+              "type": "paragraph",
+              "text": "spell disasters for … 为…带来灾难"
+            },
+            {
+              "type": "paragraph",
+              "text": "take turn in doing … 轮流做某事"
+            }
+          ]
+        }
+      ]
+    },
+    "057": {
+      "topics": [
+        {
+          "title": "动词短语和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "reproach sb for sth. 未某事责备某人"
+            },
+            {
+              "type": "paragraph",
+              "text": "cut things fine 将时间安排的不留余地"
+            },
+            {
+              "type": "paragraph",
+              "text": "be tempted to sth. 禁不住某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "Never put off till tomorrow. 今日事今日毕"
+            },
+            {
+              "type": "paragraph",
+              "text": "become an authority on … 成为某方面的专家"
+            },
+            {
+              "type": "paragraph",
+              "text": "hold your jaw! 别多嘴!"
+            },
+            {
+              "type": "paragraph",
+              "text": "follow one’s regular parctice. 像往常一样"
+            },
+            {
+              "type": "paragraph",
+              "text": "the first impulse is that … 第一个念头就是…"
+            },
+            {
+              "type": "paragraph",
+              "text": "Now worth a bean. 一文不值"
+            },
+            {
+              "type": "paragraph",
+              "text": "be essential in sth. 在…方面必不可少"
+            }
+          ]
+        }
+      ]
+    },
+    "058": {
+      "topics": [
+        {
+          "title": "动词短语和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "reproach sb for sth. 未某事责备某人"
+            },
+            {
+              "type": "paragraph",
+              "text": "cut things fine 将时间安排的不留余地"
+            },
+            {
+              "type": "paragraph",
+              "text": "be tempted to sth. 禁不住某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "Never put off till tomorrow. 今日事今日毕"
+            },
+            {
+              "type": "paragraph",
+              "text": "become an authority on … 成为某方面的专家"
+            },
+            {
+              "type": "paragraph",
+              "text": "hold your jaw! 别多嘴!"
+            },
+            {
+              "type": "paragraph",
+              "text": "follow one’s regular parctice. 像往常一样"
+            },
+            {
+              "type": "paragraph",
+              "text": "the first impulse is that … 第一个念头就是…"
+            },
+            {
+              "type": "paragraph",
+              "text": "Now worth a bean. 一文不值"
+            },
+            {
+              "type": "paragraph",
+              "text": "be essential in sth. 在…方面必不可少"
+            }
+          ]
+        }
+      ]
+    },
+    "059": {
+      "topics": [
+        {
+          "title": "动词短语和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "reproach sb for sth. 未某事责备某人"
+            },
+            {
+              "type": "paragraph",
+              "text": "cut things fine 将时间安排的不留余地"
+            },
+            {
+              "type": "paragraph",
+              "text": "be tempted to sth. 禁不住某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "Never put off till tomorrow. 今日事今日毕"
+            },
+            {
+              "type": "paragraph",
+              "text": "become an authority on … 成为某方面的专家"
+            },
+            {
+              "type": "paragraph",
+              "text": "hold your jaw! 别多嘴!"
+            },
+            {
+              "type": "paragraph",
+              "text": "follow one’s regular parctice. 像往常一样"
+            },
+            {
+              "type": "paragraph",
+              "text": "the first impulse is that … 第一个念头就是…"
+            },
+            {
+              "type": "paragraph",
+              "text": "Now worth a bean. 一文不值"
+            },
+            {
+              "type": "paragraph",
+              "text": "be essential in sth. 在…方面必不可少"
+            }
+          ]
+        }
+      ]
+    },
+    "060": {
+      "topics": [
+        {
+          "title": "动词短语和结构",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "reproach sb for sth. 未某事责备某人"
+            },
+            {
+              "type": "paragraph",
+              "text": "cut things fine 将时间安排的不留余地"
+            },
+            {
+              "type": "paragraph",
+              "text": "be tempted to sth. 禁不住某事"
+            },
+            {
+              "type": "paragraph",
+              "text": "Never put off till tomorrow. 今日事今日毕"
+            },
+            {
+              "type": "paragraph",
+              "text": "become an authority on … 成为某方面的专家"
+            },
+            {
+              "type": "paragraph",
+              "text": "hold your jaw! 别多嘴!"
+            },
+            {
+              "type": "paragraph",
+              "text": "follow one’s regular parctice. 像往常一样"
+            },
+            {
+              "type": "paragraph",
+              "text": "the first impulse is that … 第一个念头就是…"
+            },
+            {
+              "type": "paragraph",
+              "text": "Now worth a bean. 一文不值"
+            },
+            {
+              "type": "paragraph",
+              "text": "be essential in sth. 在…方面必不可少"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

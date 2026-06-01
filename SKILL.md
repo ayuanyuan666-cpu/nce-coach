@@ -403,24 +403,27 @@ author:
 
 ## 数据文件索引
 
-**14个数据文件。用 python 从 JSON 中提取单课内容，不把整文件读入上下文。**
+**17个数据文件。用 python 从 JSON 中提取单课内容，不把整文件读入上下文。**
 
 ```
 data/
 ├── book1/
 │   ├── exercises.json            ← 练习详解（144课，427KB）
 │   ├── textbook.json             ← 课文+单词+音标（142课，286KB）
-│   └── neo_notes.json            ← Leo老师课堂笔记（无课次标记，结构见下方说明）
+│   ├── neo_notes.json            ← Leo老师课堂笔记（无课次标记，结构见下方说明）
+│   └── protogenesis_notes.json   ← protogenesis补充笔记（47课有内容，手动整理）
 ├── book2/
 │   ├── exercises.json            ← 练习详解（95课，585KB）
 │   ├── textbook.json             ← 课文+单词+音标（96课，153KB）
 │   ├── neo_notes.json            ← Leo老师课堂笔记
-│   └── neo_exercises.json        ← Leo老师课后练习
+│   ├── neo_exercises.json        ← Leo老师课后练习
+│   └── protogenesis_notes.json   ← protogenesis补充笔记（96课有内容，手动整理）
 ├── book3/
 │   ├── exercises.json            ← 练习详解（25课，287KB）
 │   ├── textbook.json             ← 课文+单词+音标（60课，214KB）
 │   ├── neo_notes.json            ← Leo老师课堂笔记
-│   └── neo_exercises.json        ← Leo老师课后练习
+│   ├── neo_exercises.json        ← Leo老师课后练习
+│   └── protogenesis_notes.json   ← protogenesis补充笔记（60课有内容，手动整理）
 ├── grammar_primary.json          ← 剑桥初级语法（114单元，405KB）
 ├── grammar_intermediate.json     ← 剑桥中级语法（120单元，591KB）
 └── grammar_map.json              ← 课次→语法单元映射（12KB）
@@ -432,6 +435,7 @@ data/
 - 查课文 → 同上，读 textbook.json
 - 查语法 → 先分析本课核心语法点（阅读课文 + 课本练习内容判断），再去 grammar_primary.json 或 grammar_intermediate.json 中找对应的单元提取。grammar_map.json 仅供参考，不以它为准。
 - Leo老师笔记 → 用 `scripts/extract_neo_notes.py <book> <lesson>` 一键提取。内部结构：8483条 item，每条 `{type, text, section, para_idx}`，section 分 grammar/homework/practices/preamble。无显式课次编号，靠关键词匹配 + 密度聚类定位。
+- protogenesis 补充笔记 → 用 `scripts/extract_protogenesis_notes.py <book> <lesson>` 提取。手动整理的中文语法讲解，仅引入新知识点的课次有内容。**作为补充参考使用**，在 Leo + 剑桥语法对照展示完毕后，若有内容则追加「补充参考」小节。无内容时脚本会提示。
 - grammar_map.json（12KB）可直接 Read
 
 ## References 目录（按需读取）
