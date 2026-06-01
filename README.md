@@ -1,8 +1,14 @@
-# Leo新概念英语私教
+# Leo新概念英语私教 — Claude Code Skill
 
 本学习方法来自于哔哩哔哩刘羽Leo老师的新概念英语教学体系。
 
 ## 这是什么
+
+这是一个 **Claude Code 可安装技能（Agent Skill）**，不是独立 App。你需要先安装 [Claude Code](https://claude.ai/code)（Anthropic 推出的 AI 编程终端），然后通过 `skillset` 或手动安装本 skill 才能使用。
+
+安装后在 Claude Code 中触发"新概念英语"相关关键词即可激活。
+
+---
 
 一个 AI 课后陪练，负责你学完新概念英语每课之后的练习批改、单词巩固和日常英语闲聊。它不教课（你有刘羽Leo老师的视频），只管课后陪你练。
 
